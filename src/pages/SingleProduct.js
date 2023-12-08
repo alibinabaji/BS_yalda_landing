@@ -23,9 +23,13 @@ const SingleProduct = () => {
                         <h1 className="flex-auto text-lg font-semibold text-slate-900 my-2">
                             {foundProduct.name}
                         </h1>
-                        <div className="text-2xl font-semibold text-red-800 my-2">
-                            {foundProduct.price} تومان
+                        <div className="flex items-center justify-around m-2">
+                            <span className="bg-red-500 border-4 border-solid border-green-500 text-white py-1 px-2 rounded-full mr-2">{foundProduct.off}</span>
+                            <span className="price text-red-700">
+                            <del className="text-gray-800">{foundProduct.price} تومان</del>
+                            </span>
                         </div>
+                        <span className="ml-2 text-red-700 font-semibold text-2xl">{foundProduct.discountedPrice} تومان</span>
                     </div>
                     <div className="flex items-baseline mt-4 mb-6 pb-6 border-b border-slate-200">
                     </div>
