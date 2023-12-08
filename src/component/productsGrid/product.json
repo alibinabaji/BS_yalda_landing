@@ -1,118 +1,165 @@
 [
     {
+        "id": "BS110048",
         "name": "جعبه هدیه 2 گوهر زعفران و هل بینا",
         "price": "185000",
         "img": "/mag/wp-content/uploads/2022/09/2-gohar-cardamom-saffron-1.jpg",
         "link": "جعبه-هدیه-2-گوهر-زعفران-و-هل-بینا",
         "discountedPrice": "157000",
-        "off": "15%"
+        "off": "15%",
+        "summarize":
+        "<ul>\n \t<li>محتویات : نیم گرم زعفران، 5 گرم هل و هاون برنجی<\/li>\n \t<li>جنس بسته بندی : مخمل<\/li>\n \t<li><span class=\"p\" dir=\"rtl\">ابعاد محصول: <\/span><span class=\"p\" dir=\"rtl\">۱۳*۱۳*۵ سانتیمتر<\/span><\/li>\n \t<li>کد محصول : BS110048<\/li>\n<\/ul>"
+
     },
     {
+        "id": "BS110047",
         "name": "زعفران گوهر بینا – 1 گرم به همراه هاون",
         "price": "215000",
         "img": "/mag/wp-content/uploads/2022/09/2-gohar-saffron-gift-box-1.jpg",
         "link": "زعفران-گوهر-بینا-1-گرم-به-همراه-هاون",
         "discountedPrice": "182000",
-        "off": "15%"
+        "off": "15%",
+        "summarize":
+        "<ul>\n \t<li>محتویات : 1 گرم زعفران و هاون برنجی<\/li>\n \t<li>جنس بسته بندی : مخمل<\/li>\n \t<li><span class=\"p\" dir=\"rtl\">ابعاد محصول: <\/span><span class=\"p\" dir=\"rtl\">۱۳*۱۳*۵ سانتیمتر<\/span><\/li>\n \t<li>کد محصول : BS110047<\/li>\n<\/ul>"
+
 
 
     },
     {
+        "id": "BS110031",
         "name": "پک هدیه 1 گرم خاتم زعفران بینا",
         "price": "220000",
         "img": "/mag/wp-content/uploads/2020/09/2-gr-saffron-gift-box.jpg",
         "link": "پک-هدیه-زعفران-بینا",
         "discountedPrice": "187000",
+        "summarize":
+        "<ul>\n \t<li>محتویات : 1 گرم زعفران خاتم و هاون برنجی<\/li>\n \t<li>جنس بسته بندی : مخمل<\/li>\n \t<li><span class=\"p\" dir=\"rtl\">ابعاد محصول: <\/span><span class=\"p\" dir=\"rtl\">۱۳*۱۳*۵ سانتیمتر<\/span><\/li>\n \t<li>کد محصول : BS110031<\/li>\n<\/ul>",
         "off": "15%"
 
 
     },
     {
+        "id": "BS110030",
         "name": "پک هدیه 2 آذین زعفران و هل بینا",
         "price": "260000",
         "img": "/mag/wp-content/uploads/2020/09/2azin-saffron-cardamom.jpg",
         "link": "پک-هدیه-زعفران-و-هل-بینا",
         "discountedPrice": "234000",
+        "summarize":
+        "<ul>\n \t<li>محتویات : 1 گرم زعفران و 5 گرم هل سبز و هاون برنجی<\/li>\n \t<li>جنس بسته بندی : مخمل<\/li>\n \t<li><span class=\"p\" dir=\"rtl\">ابعاد محصول: <\/span><span class=\"p\" dir=\"rtl\">۱۷*۹*۴ سانتیمتر<\/span><\/li>\n \t<li>کد محصول : BS110030<\/li>\n<\/ul>",
+
         "off": "10%"
 
 
     },
     {
+        "id": "BS110043",
         "name": "زعفران هدیه آذین بینا – 2 گرم به همراه هاون",
         "price": "340000",
         "img": "/mag/wp-content/uploads/2022/05/2-azin-saffron-gift-box.jpg",
         "link": "زعفران-هدیه-آذین-بینا-2-گرم-به-همراه-هاو",
         "discountedPrice": "306000",
+        "summarize":
+        "<ul>\n \t<li>محتویات : 2 گرم زعفران و هاون برنجی<\/li>\n \t<li>جنس بسته بندی : مخمل<\/li>\n \t<li><span class=\"p\" dir=\"rtl\">ابعاد محصول: <\/span><span class=\"p\" dir=\"rtl\">۱۷*۹*۴ سانتیمتر<\/span><\/li>\n \t<li>کد محصول : BS110043<\/li>\n<\/ul>",
+
         "off": "10%"
 
 
     },
     {
+        "id": "BS110035",
         "name": "پک هدیه 2 خاتم زعفران و هل بینا",
         "price": "415000",
         "img": "/mag/wp-content/uploads/2020/11/saffron-cardamom-gift-box-1.jpg",
         "link": "پک-هدیه-زعفران-خاتم-و-هل-بینا",
         "discountedPrice": "373000",
+        "summarize":
+        "<ul>\n \t<li>محتویات : 2 گرم زعفران خاتم و 10 گرم هل سبز<\/li>\n \t<li>جنس بسته بندی : مخمل<\/li>\n \t<li><span class=\"p\" dir=\"rtl\">ابعاد محصول: <\/span><span class=\"p\" dir=\"rtl\">۲۷*۱۴*۷ سانتیمتر<\/span><\/li>\n \t<li>کد محصول : BS110035<\/li>\n<\/ul>",
+
         "off": "10%"
 
 
     },
     {
+        "id": "BS110041",
         "name": "پک هدیه تک خاتم هاون دار بینا",
         "price": "400000",
         "img": "/mag/wp-content/uploads/2020/12/khatam-saffron-gift-box-.jpg",
         "link": "پک-هدیه-تک-خاتم-هاون-دار-بینا",
         "discountedPrice": "360000",
+        "summarize":
+        "<ul>\n \t<li>محتویات : 2 گرم زعفران خاتم ، هاون برنجی<\/li>\n \t<li>جنس بسته بندی : مخمل<\/li>\n \t<li><span class=\"p\" dir=\"rtl\">ابعاد محصول: <\/span><span class=\"p\" dir=\"rtl\">۲۷*۱۴*۷ سانتیمتر<\/span><\/li>\n \t<li>کد محصول : BS110041<\/li>\n<\/ul>",
+
         "off": "10%"
 
 
     },
     {
+        "id": "BS110036",
         "name": "پک هدیه 2 خاتم زرشک دار بینا",
         "price": "465000",
         "img": "/mag/wp-content/uploads/2020/11/barberry-saffron-gift-box-1.jpg",
         "link": "پک-هدیه-2-خاتم-زرشک-دار-بینا",
         "discountedPrice": "418000",
+        "summarize":
+        "<ul>\n \t<li>محتویات : 1 گرم زعفران خاتم و 5 گرم هل سبز و 100 گرم زرشک و هاون برنجی<\/li>\n \t<li>جنس بسته بندی : مخمل<\/li>\n \t<li><span class=\"p\" dir=\"rtl\">ابعاد محصول: <\/span><span class=\"p\" dir=\"rtl\">۲۸*۱۸*۷ سانتیمتر<\/span><\/li>\n \t<li>کد محصول : BS110036<\/li>\n<\/ul>",
+
         "off": "10%"
 
 
     },
     {
+        "id": "BS110040",
+
         "name": "پک هدیه تک خاتم قوری دار بینا",
         "price": "520000",
         "img": "/mag/wp-content/uploads/2020/12/quti-saffron-gift-box-1.jpg",
         "link": "پک-هدیه-تک-خاتم-قوری-دار-بینا",
         "discountedPrice": "494000",
+        "summarize":
+        "<ul>\n \t<li>محتویات : 2 گرم زعفران خاتم ، هاون برنجی ، قوری<\/li>\n \t<li>جنس بسته بندی : مخمل<\/li>\n \t<li><span class=\"p\" dir=\"rtl\">ابعاد محصول: <\/span><span class=\"p\" dir=\"rtl\">۷×۱۲×۲۶ سانتیمتر<\/span><\/li>\n \t<li>کد محصول : BS110040<\/li>\n<\/ul>",
+
         "off": "5%"
 
 
     },
     {
+        "id": "BS110046",
         "name": "زعفران هدیه 2 خاتم بینا – 4 گرم",
         "price": "575000",
         "img": "/mag/wp-content/uploads/2022//05/2-saffron-khatam-giftbox-1.jpg",
         "link": "زعفران-هدیه-2-خاتم-بینا-4-گرم",
         "discountedPrice": "546000",
+        "summarize":
+        "<ul>\n \t<li>محتویات : 4 گرم زعفران و هاون برنجی<\/li>\n \t<li>جنس بسته بندی : مخمل<\/li>\n \t<li><span class=\"p\" dir=\"rtl\">ابعاد محصول: <\/span><span class=\"p\" dir=\"rtl\">۲۷*۱۴*۷ سانتیمتر<\/span><\/li>\n \t<li>کد محصول : BS110046<\/li>\n<\/ul>",
+
         "off": "5%"
 
 
     },
     {
+        "id": "BS110034",
         "name": "پک هدیه 2 خاتم قوری دار بینا",
         "price": "580000",
         "img": "/mag/wp-content/uploads/2020/11/quti-big-saffron-gift-box.jpg",
         "link": "پک-هدیه-قوری-دار-زعفران-و-هل-بینا",
         "discountedPrice": "551000",
+        "summarize":
+        "<ul>\n \t<li>محتویات : 2 گرم زعفران خاتم و 10 گرم هل سبز و قوری و هاون برنجی<\/li>\n \t<li>جنس بسته بندی : مخمل<\/li>\n \t<li><span class=\"p\" dir=\"rtl\">ابعاد محصول: <\/span><span class=\"p\" dir=\"rtl\">۳۶*۱۶*۶ سانتیمتر<\/span><\/li>\n \t<li>کد محصول : BS110034<\/li>\n<\/ul>",
+  
         "off": "5%"
 
 
     },
     {
+        "id": "BS110045",
         "name": "زعفران هدیه خاتم قوری دار بینا – 4 گرم",
         "price": "730000",
         "img": "/mag/wp-content/uploads/2022/05/quti-big-2-saffron-gift.jpg",
         "link": "زعفران-هدیه-خاتم-قوری-دار-بینا-4-گرم",
         "discountedPrice": "693000",
+        "summarize":
+        "<ul>\n \t<li>محتویات : 4 گرم زعفران به همراه قوری و هاون برنجی<\/li>\n \t<li>جنس بسته بندی : مخمل<\/li>\n \t<li><span class=\"p\" dir=\"rtl\">ابعاد محصول: <\/span><span class=\"p\" dir=\"rtl\">۳۶*۱۶*۶ سانتیمتر<\/span><\/li>\n \t<li>کد محصول : BS110045<\/li>\n<\/ul>",
         "off": "5%"
 
 

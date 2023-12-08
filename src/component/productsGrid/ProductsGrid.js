@@ -1,13 +1,14 @@
 import React from 'react';
 import product from './product.json'
+import { Link } from 'react-router-dom';
 
 function ProductsGrid() {
   return (
     <div className="productsList flex flex-wrap">
         {product.map((item, index) => (
-            <div class="product p-5 basis  md:basis-1/4 text-center my-7" key={index}>
+            <div className="product p-5 basis  md:basis-1/4 text-center my-7" key={index}>
                 <div className='rounded-lg overflow-hidden shadow-lg hover:shadow-2xl transition-all duration-300 p-3 h-full'>
-                    <a target="_blank" href={`https://binasaffron.ir/product/${item.link}`}>
+                    <Link target="_blank" to={`/product/${item.id}`}>
                         <img className="w-full" src={`https://binasaffron.ir/${item.img}`} alt="" loading="lazy" />
                         <h2 className="productName mx-3">{ item.name }</h2>
                         <div className="flex items-center justify-around m-2">
@@ -17,7 +18,7 @@ function ProductsGrid() {
                             </span>
                         </div>
                         <span className="ml-2 text-red-700 font-semibold">{item.discountedPrice} تومان</span>
-                    </a >
+                    </Link  >
                 </div>
             </div>
         ))}

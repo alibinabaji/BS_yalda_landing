@@ -2,7 +2,6 @@
 import React from 'react';
 import Slider from '../component/slider/Slider';
 import ProductsGrid from '../component/productsGrid/ProductsGrid';
-import Footer from '../component/footer/Footer';
 
 function Home() {
   return (
@@ -13,12 +12,17 @@ function Home() {
                 <h1>خرید هدیه شب یلدا</h1>
             </div>
             <span>
-            در جشن شب یلدا، جعبه هدیه <span style={{ fontWeight: 'bold' }}>زعفران بینا</span> به عنوان یک گزینه بی‌نظیر برای ارائه هدیه ای متفاوت و لذت‌بخش می باشد.
+            در جشن شب یلدا، جعبه هدیه <span style={{ fontWeight: 'bold' }}>زعفران بینا</span>  به عنوان یک گزینه بی‌نظیر برای ارائه هدیه ای متفاوت و لذت‌بخش و یک هدیه سازمانی شب یلدا فوق العاده
+ می باشد.
+            </span>
+            <br></br>
+            <span>
+            برای ثبت سفارش و خرید پک هدیه شب یلدا
+ با شماره  <a href="tel:09152163991">09152163991</a> در تماس باشید.
             </span>
 
         </div>
       <ProductsGrid/>
-      <Footer/>
     </div>
   );
 }
